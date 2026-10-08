@@ -1,8 +1,11 @@
 ## Hi, I’m @rafa7mad.
+
 ### I hold an Advanced Vocational Specialization Certificate in Artificial Intelligence and Big Data.
 <br>
+
 ### I'm interested in data science and AI.
 <br>
+
 ### I'm currently learning in the IFCD0078 program, focusing on cloud system architecture and development, as well as data engineering.
 
 

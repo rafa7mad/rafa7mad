@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I’m @rafa7mad.
+I hold an Advanced Vocational Specialization Certificate in Artificial Intelligence and Big Data.
+I'm interested in data science and AI.
+I'm currently learning in the IFCD0078 program, focusing on cloud system architecture and development, as well as data engineering.
+
 
 <!--
 **rafa7mad/rafa7mad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
